@@ -1,0 +1,13 @@
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\bin\Debug\netcoreapp3.1\CinemaAdviser.exe
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\bin\Debug\netcoreapp3.1\CinemaAdviser.deps.json
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\bin\Debug\netcoreapp3.1\CinemaAdviser.runtimeconfig.json
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\bin\Debug\netcoreapp3.1\CinemaAdviser.runtimeconfig.dev.json
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\bin\Debug\netcoreapp3.1\CinemaAdviser.dll
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\bin\Debug\netcoreapp3.1\CinemaAdviser.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\obj\Debug\netcoreapp3.1\CinemaAdviser.csprojAssemblyReference.cache
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\obj\Debug\netcoreapp3.1\CinemaAdviser.AssemblyInfoInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\obj\Debug\netcoreapp3.1\CinemaAdviser.AssemblyInfo.cs
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\obj\Debug\netcoreapp3.1\CinemaAdviser.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\obj\Debug\netcoreapp3.1\CinemaAdviser.dll
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\obj\Debug\netcoreapp3.1\CinemaAdviser.pdb
+C:\Users\HOME\Desktop\Програмирование\C#\CinemaAdviser\obj\Debug\netcoreapp3.1\CinemaAdviser.genruntimeconfig.cache
