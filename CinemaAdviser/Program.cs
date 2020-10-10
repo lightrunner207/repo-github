@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CinemaAdviser
 {
@@ -19,7 +19,7 @@ namespace CinemaAdviser
                 Console.WriteLine("Sex Education - your choice");
             } else if (genre == "фантастика") {
                 Console.ForegroundColor = ConsoleColor.Green;
-                Console.WriteLine("Люди икс норм так");
+                Console.WriteLine("Люди икс норм так фильм");
             } else {
                 Console.WriteLine("You are sick");
             }
